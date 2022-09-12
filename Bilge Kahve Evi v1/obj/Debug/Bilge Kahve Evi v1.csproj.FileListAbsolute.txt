@@ -1,0 +1,10 @@
+C:\Users\ABRA\source\repos\Bilge Kahve Evi v1\bin\Debug\Bilge Kahve Evi v1.exe.config
+C:\Users\ABRA\source\repos\Bilge Kahve Evi v1\bin\Debug\Bilge Kahve Evi v1.exe
+C:\Users\ABRA\source\repos\Bilge Kahve Evi v1\bin\Debug\Bilge Kahve Evi v1.pdb
+C:\Users\ABRA\source\repos\Bilge Kahve Evi v1\obj\Debug\Bilge Kahve Evi v1.csprojAssemblyReference.cache
+C:\Users\ABRA\source\repos\Bilge Kahve Evi v1\obj\Debug\Bilge_Kahve_Evi_v1.Bilge_Kahve_Evi_v1.resources
+C:\Users\ABRA\source\repos\Bilge Kahve Evi v1\obj\Debug\Bilge_Kahve_Evi_v1.Properties.Resources.resources
+C:\Users\ABRA\source\repos\Bilge Kahve Evi v1\obj\Debug\Bilge Kahve Evi v1.csproj.GenerateResource.cache
+C:\Users\ABRA\source\repos\Bilge Kahve Evi v1\obj\Debug\Bilge Kahve Evi v1.csproj.CoreCompileInputs.cache
+C:\Users\ABRA\source\repos\Bilge Kahve Evi v1\obj\Debug\Bilge Kahve Evi v1.exe
+C:\Users\ABRA\source\repos\Bilge Kahve Evi v1\obj\Debug\Bilge Kahve Evi v1.pdb
